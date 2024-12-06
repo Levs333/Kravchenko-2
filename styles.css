@@ -1,0 +1,35 @@
+ h1{
+    background-color:lightcoral;
+    text-align:center;
+}
+footer{
+    background-color:gray;
+    text-align:center;
+}
+main h3{
+    text-align:right;
+}
+main {
+    background-color:;
+}
+header a {
+    color: gray;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    }
+main p {
+        text-align:right;
+    }
+h4 {
+        text-align:right;
+    }
+.center{
+    text-align:center;
+}
+
+.imaaag{
+    width:700px;
+    
+}
